@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('disney.jpg') no-repeat top center alt="Photo of cinderellas castle in Disney World" ;
+  background: url('disney.jpg') no-repeat top center;
   background-size: cover;
   padding-top: 60px;
 }
